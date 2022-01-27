@@ -1,0 +1,4 @@
+{"name":"gaurav","age":"23","city":"pune","salary":"5000"}*
+{"name":"gaurav","age":"23","city":"pune","salary":"5000"}*
+{"name":"gaurav","age":"23","city":"pune","salary":"5000"}*
+{"name":"gaurav","age":"23","city":"pune","salary":"5000"}*{"name":"bhushan","age":"33","city":"anjale","salary":"34"}*{"name":"saurbh","age":"44","city":"pune","salary":"5667"}*{"name":"MUKESH","age":"24","city":"PUNE","salary":"10000"}*{"name":"rasika","age":"32","city":"pune","salary":"454365"}
